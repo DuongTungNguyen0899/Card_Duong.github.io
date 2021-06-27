@@ -1,0 +1,26 @@
+body {
+    padding: 30px;
+    background: #59CCB3;
+    background-size: cover;
+    font-family: 'Raleway', sans-serif;
+}
+
+.wrap{
+    width: 80%;
+    margin: 0 auto;
+}
+.profile_main{
+    background: no-repeat 0px 0px;
+    background-size: cover;
+    width: 45%;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 4px;
+    box-shadow: 0 10px 20px rgb(0 0 0 / 20%);
+}
+.profile-img{
+    border: 4px solid #fff;
+    border-radius: 82px;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+}
